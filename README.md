@@ -4,7 +4,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/Joachim-masson/WCS-NodeQuest/blob/main/Preview.PNG" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/Joachim-masson/WCS-NodeQuest/blob/main/Preview.PNG" alt="project-screenshot" width="800" height="400/">
   
 <h2>🧐 Features</h2>
 
