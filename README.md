@@ -2,7 +2,9 @@
 
 <p id="description">Displays in the console a cow who gives her name and campus</p>
 
-  
+<h2>Project Screenshots:</h2>
+
+<img src="https://github.com/Joachim-masson/WCS-NodeQuest/blob/main/Preview.PNG" alt="project-screenshot" width="400" height="400/">
   
 <h2>🧐 Features</h2>
 
